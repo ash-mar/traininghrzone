@@ -1,4 +1,4 @@
-# traininghrzone
+# Training Heart Rate Zone Monitor
 This code collects heart rate data from the Adafruit Pulse Sensor and catagorizes them into 5 heart rate zones.  
 The heart rate zones includes fatburning, cardio, intense and maximum heart rate zone. 
 This zones are calculated based on the Maximum Heart Rate of an individual.  
