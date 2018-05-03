@@ -3,7 +3,7 @@
 
  This code collects heart rate data from the Adafruit Pulse Sensor and categorizes them into 5 heart rate zones.
  The heart rate zones includes fatburning, cardio, intense and maximum heart rate zone. This zones are calculated based on the Maximum Heart Rate of an individual.
- The maximum heart rate can be calculated by substracting the individual's age from 220. The zones are specficied in terms of percentage of the maximum heart rate.
+ The maximum heart rate can be calculated by subtracting the individual's age from 220. The zones are specified in terms of percentage of the maximum heart rate.
  For instance,
  Fatburning = 60-70% of Max HR;
  Cardio = 70-80% of Max HR;
