@@ -1,4 +1,11 @@
 # Training Heart Rate Zone Monitor
+
+ This project was created on 4/25/2018
+ By Ashley Hah and Marissa Kuhns
+ Biosensor Project
+ ENGR375 Bioinstrumentation and Measurement
+ Messiah College Department of Engineering
+ 
 This code collects heart rate data from the Adafruit Pulse Sensor and catagorizes them into 5 heart rate zones.  
 The heart rate zones includes fatburning, cardio, intense and maximum heart rate zone. 
 This zones are calculated based on the Maximum Heart Rate of an individual.  
